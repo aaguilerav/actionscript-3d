@@ -1,6 +1,6 @@
 # Actionscript 3D Prototype
 
-**Projects like this one are prototypes, that means that special attention was given to the problem itself rather than having a perfect software design.**
+<**Projects like this one are prototypes, that means that special attention was given to the problem itself rather than having a perfect software design.**>
 
 3D rendering prototype using flash actionscript.
 

@@ -8,3 +8,5 @@ You can see it here: https://aaguilerav.github.io/actionscript-3d/
 
 
 ![Fig1](https://raw.githubusercontent.com/aaguilerav/actionscript-3d/master/screenshot.png)
+
+![Fig2](https://raw.githubusercontent.com/aaguilerav/actionscript-3d/master/cube.gif)
